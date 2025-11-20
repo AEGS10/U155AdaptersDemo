@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">U155AdaptersDemo</string>
+    <string name="title_main">Práctica 1.5.5 — Adaptadores y Vistas</string>
+    <string name="spinner_label">Seleccione una ciudad</string>
+    <string name="list_label">Lista de países</string>
+    <string name="grid_label">Grid de colores</string>
+</resources>
